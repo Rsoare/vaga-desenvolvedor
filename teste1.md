@@ -1,4 +1,18 @@
 # *Controle de projetos - teste_técnico_backend*
+## Tecnologias Utilizadas; 
+- Node.js
+- Express
+- JavaScript
+- TypeScript
+- Sequelize
+- Zod
+- JsonWebToken
+- Bcryptjs
+- Cors
+- SGBD = PostgreSQL
+#
+
+### Apos clonar o repositorio instale as dependencias do projeto com o comando `npm install`
 
 ## Configuração do banco de dados; 
 - Crie um aquivo .env e configure o banco de dados desejado seguindo o exemplo abaixo;
@@ -42,10 +56,9 @@
 
 # *Controle de projetos - teste_técnico_frontend*
 
-## Comandos para inicialização da aplicação; 
+## Link da aplicação na vercel: `front-end-pink-one.vercel.app`
 
-- Para iniciar localmente;
-  - `npm run dev`
+## Todas as rotas foram configuradas para usar a ` baseURL: 'http://localhost:3000'`
 
 ## Usuario Admin 
   - usuario principal da aplicação;   
